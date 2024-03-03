@@ -1,4 +1,4 @@
-## Econometrics Class
+n ## Econometrics Class
 Tech used: Python, Pandas, Matplotlib, Statsmodel
 
 ## Overview
@@ -6,4 +6,4 @@ One of my favorite classes at Rutgers is Econometrics. This class focuses on reg
 These projects are assignments based on what we are learning in class. These allow me to apply the theory and fundamentals of regression into an actual model. 
 
 ## Insights
-I used pandas, matplotlib, and statsmodel in order to regress multiple variables, create scatter plots, and create lines of best fits. 
+I used pandas, matplotlib, and statsmodel in order to regress multiple variables, create scatter plots, and create lines of best fits. I even used what I learned to end a debate between my friend and I. That can be found under the repository named "Fun Project". 
